@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-asm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "asmTeam ESLint config",
   "main": "index.js",
   "private": false,
